@@ -1,3 +1,3 @@
-# Node, Express, PostgreSQL, Vue 2 and Graphql CRUD Web App
+# Build a Full‑Stack CRUD App with Node.js, Express, PostgreSQL & Vue 3 + GraphQL (2025 Edition)
 
-This source code is part of [Node, Express, PostgreSQL, Vue 2 and Graphql CRUD Web App](https://www.djamware.com/post/5cdc0ba280aca754f7a9d1f4/node-express-postgresql-vue-2-and-graphql-crud-web-app) tutorial.
+Read full article [here]().

@@ -4,20 +4,20 @@
     "password": "dj@mw@r3",
     "database": "node_sequelize",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "postgresql"
   },
   "test": {
     "username": "root",
-    "password": "dj@mw@r3",
-    "database": "node_sequelize",
+    "password": null,
+    "database": "database_test",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "dj@mw@r3",
-    "database": "node_sequelize",
+    "password": null,
+    "database": "database_production",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "mysql"
   }
 }
